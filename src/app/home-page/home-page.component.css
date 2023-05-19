@@ -1,0 +1,25 @@
+.gifContainer{
+  margin-top: -84px;
+  margin-left: -10px;
+}
+#titleContainer{
+  background-color: black;
+}
+#title{
+  margin-left: 860px;
+  margin-top: -540px;
+  font-size: 100px;
+  text-align: center;
+  color: white;
+}
+#buttonTble{
+  margin-left:150px;
+}
+#deskPgButton{
+  font-size: 60px;
+  padding: 50px;
+}
+#mobilePgButton{
+  font-size: 60px;
+  padding: 50px;
+}
